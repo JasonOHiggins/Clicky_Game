@@ -4,5 +4,5 @@
 
 #### Click on each car once to win the game. But don't click on a car twice, or it's game over for you!
 
-#### Built with React. Check it out [here](https://jasonohiggins.github.io/Clicky_Game/).
+#### Built with React. Check it out [here]().
 
