@@ -1,8 +1,8 @@
-# Simpsons Clicky Game
+# Cars Clicky Game
 
-#### Test your memory with your favorite friends from *The Simpsons*.
+#### Test your memory with your favorite cars!.
 
-#### Click on each character once to win the game. But don't click on a character twice, or it's game over for you!
+#### Click on each car once to win the game. But don't click on a car twice, or it's game over for you!
 
-#### Built with React. Check it out [here](https://wllm-chndlr.github.io/clicky-game/).
+#### Built with React. Check it out [here](https://jasonohiggins.github.io/Clicky_Game/).
 
