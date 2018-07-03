@@ -16,5 +16,21 @@
     "deploy": "gh-pages -d build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonOHiggins/Clicky_Game.git"
+  },
+  "keywords": [
+    "click",
+    "cars"
+  ],
+  "author": "Jason O'Higgins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasonOHiggins/Clicky_Game/issues"
   }
 }
