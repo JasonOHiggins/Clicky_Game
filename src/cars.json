@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.topgear.com/sites/default/files/cars-car/carousel/2015/09/2_9.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://www.topgear.com/sites/default/files/cars-car/carousel/2015/01/670x377Image_1983.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://www.topgear.com/sites/default/files/cars-car/carousel/2016/08/li1109657noble-007.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://www.topgear.com/sites/default/files/cars-car/carousel/2015/02/buyers_guide_-_lamborghini_huracan_2014_-_rear_quarter.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://www.topgear.com/sites/default/files/cars-car/carousel/2016/12/2gtc4lussojune2016.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://www.topgear.com/sites/default/files/cars-car/carousel/2016/07/audirs6avant_005.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://www.topgear.com/sites/default/files/cars-car/carousel/2016/07/p1470240.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://www.topgear.com/sites/default/files/cars-car/carousel/2016/08/pcgb16_0401_fine.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://www.topgear.com/sites/default/files/cars-car/carousel/2015/01/670x377Image_870.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://www.topgear.com/sites/default/files/cars-car/carousel/2016/12/ms4c6348.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://www.topgear.com/sites/default/files/cars-car/carousel/2017/09/17c678_012.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://www.topgear.com/sites/default/files/cars-car/carousel/2018/05/18c0347_017.jpg",
+    "clicked": false
+  }
+]
+
+
+

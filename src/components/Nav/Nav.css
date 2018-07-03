@@ -1,19 +1,19 @@
 nav {
   width: 100%;
   font-size: 3rem;
-  color: #fff;
+  color:white;
   margin-bottom: 50px;
   background-color: rgb(56, 56, 56);
   height: auto;
-  font-family: 'Bungee', cursive;
+  font-family:'Bungee', cursive;
 }
 
 a {
-  color: #fed420;
+  color:white;
 }
 
 a:hover {
-  color: #fed420;
+  color: white;
   text-decoration: none;
 }
 

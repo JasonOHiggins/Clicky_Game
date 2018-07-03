@@ -2,7 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wllm-chndlr.github.io/clicky-game",
+  "homepage": "https://github.com/JasonOHiggins/Clicky_Game",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.2.0",
